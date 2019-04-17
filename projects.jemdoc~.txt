@@ -1,8 +1,0 @@
-# jemdoc: menu{MENU}{projects.html}
-= Projects and Presentations
-
-- *Estimating Number of People in Images of Very High Density Crowds*\n
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut tempus orci a malesuada pellentesque. Aenean sed laoreet justo. Sed cursus ut urna ut condimentum. Mauris nec posuere tortor. Mauris vel lorem vehicula, condimentum magna tincidunt, vestibulum nisi. Suspendisse turpis nibh, molestie sit amet facilisis blandit, mattis et turpis. Donec sodales justo eu mi hendrerit imperdiet. 
-- *Omelette du Fromage*\n
-Proin non sem volutpat, eleifend justo vel, dictum ligula. Sed nec laoreet felis, at semper ligula. Integer non dolor sit amet libero semper vestibulum sollicitudin rutrum mi. Pellentesque nec condimentum mi, eu pellentesque mauris. Nam non hendrerit diam. Proin malesuada enim eget dolor suscipit tempor. Donec at iaculis ipsum. Curabitur gravida eros eu ipsum maximus, ut dignissim lacus molestie. Curabitur condimentum, mi quis convallis imperdiet, diam nunc molestie velit, id mollis ante tellus ac diam. Nunc interdum, libero sit amet cursus congue, leo metus sodales enim, ut suscipit purus diam quis neque. Praesent ex felis, scelerisque quis magna sed, semper commodo leo. 
-
