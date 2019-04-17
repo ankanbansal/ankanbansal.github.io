@@ -1,0 +1,85 @@
+# jemdoc: menu{MENU.txt}{zsd.html}
+= Human-Object Interaction Detection
+Ankan Bansal, Sai Saketh Rambhatla, [http://abhinavsh.info/ Abhinav Shrivastava], and Rama Chellappa\n
+
+~~~
+{}{img_left}{projects/hoi/system_gen.png}{System}{900px}{200px}
+
+~~~
+    
+{{<font size=2><b>Fig. 1:</b> We detect all objects and humans in an image. 
+    This detector gives human features, and the corresponding labels. 
+        We consider all pairs of human-object and create union boxes.
+        Our functional generalization module uses the word vectors for the 
+        human, the object class, geometric features, and human features from
+        the object detector to produce the probability estimate over 
+        the predicates.</font>}}
+
+
+\n
+*Abstract*: We present an approach for detecting human-object 
+interactions (HOIs) in images, based on the idea that humans
+interact with functionally similar objects in a similar manner. 
+The proposed model is simple and uses the visual features
+of the human, relative spatial orientation of the human
+and the object, and the knowledge that functionally similar
+objects take part in similar interactions with humans.  We
+provide extensive experimental validation for our approach
+and demonstrate state-of-the-art results for HOI detection.
+On the HICO-Det dataset our method achieves a gain of
+over 7\% absolute points in mean average precision (mAP) 
+over published literature and even a gain of over 2.5\%
+absolute mAP over contemporary work. We also show that our
+approach leads to significant performance gains for zero-shot HOI 
+detection in the seen object setting. We further
+demonstrate that using a generic object detector, our model
+can generalize to interactions involving previously unseen
+objects.
+
+== Results
+*We highlight the results obtained in the unseen object setting in the following figure.*\n
+
+~~~
+{}{img_left}{projects/hoi/positive.png}{results}{1200px}{320px}
+~~~
+
+{{<font size=2><b>Fig. 2:</b> This figure shows some detections made by our model in the unseen
+    object setting.</font>}}
+
+~~~
+{}{img_left}{projects/hoi/non_hico_objects.png}{results}{1200px}{400px}
+~~~
+
+{{<font size=2><b>Fig. 3:</b> This figure shows some detections made by our model for 
+    objects outside the HICO-Det dataset.</font>}}
+
+
+== Paper
+Our paper is available [https://arxiv.org/abs/1904.03181 here].
+
+If you found the paper useful, please consider citing our paper using the bibtex:\n
+
+~~~
+{}{}
+@misc{bansal2019detecting,
+    Author = {Bansal, Ankan and Rambhatla, Sai Saketh and Shrivastava, Abhinav and Chellappa, Rama},
+    Title = {Detecting Human-Object Interactions via Functional Generalization},
+    Year = {2019},
+    Eprint = {arXiv:1904.03181},
+}
+~~~
+
+
+*Acknowledgments*
+
+This project was supported by the Intelligence Advanced
+Research Projects Activity (IARPA) via Department of 
+Interior/Interior Business Center (DOI/IBC) contract number
+D17PC00345. The U.S. Government is authorized to reproduce
+and distribute reprints for Governmental purposes not
+withstanding any copyright annotation thereon.
+Disclaimer:  The views and conclusions contained herein
+are those of the authors and should not be interpreted as 
+necessarily representing the official policies or endorsements,
+either expressed or implied of IARPA, DOI/IBC or the U.S.
+Government.

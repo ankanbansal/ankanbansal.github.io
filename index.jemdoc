@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU.txt}{index.html}
+= Ankan Bansal
+
+~~~
+{}{img_left}{ab.jpg}{sherlock}{190px}{200px}
+Ankan Bansal\n
+Fourth Year Ph.D. Student\n
+[http://www.ece.umd.edu/ Department of Electrical and Computer Engineering]\n
+[http://www.umd.edu/ University of Maryland, College Park]\n
+~~~
+
+I am working in computer vision on problems related to zero-shot learning, person-object interactions, and face analysis. My advisor is 
+[http://www.umiacs.umd.edu/~rama/ Prof. Rama Chellappa]
+
+I completed my bachelor's and master's at [http://www.iitk.ac.in/ Indian Institute of Technology, Kanpur]. I did 
+my master's thesis on estimating number of people in images of high density crowds under 
+[http://home.iitk.ac.in/~venkats/ Prof. K. S. Venkatesh] and [http://home.iitk.ac.in/~lbehera/ Prof. Laxmidhar 
+Behera].
+
+Feel free to navigate through the site or [contact.html contact me] for more information. 

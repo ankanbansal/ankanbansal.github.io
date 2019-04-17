@@ -1,0 +1,138 @@
+# jemdoc: menu{MENU.txt}{projects.html}
+= Projects
+
+{{<font size=2>(click on images to go to project pages)</font>}}
+
+=== Human-Object Interaction Detection
+{{<a href="hoi.html"><img src="projects/hoi/non_hico_objects_small.png" height="260" width="600"></a>}}
+
+=== Semi-supervised Learning
+/Internship at Amazon Rekognition, Seattle, WA (May 2018-August 2018)/\n
+
+=== Zero-shot Object Detection
+/Internship at SRI International, Princeton, NJ (May 2017-August 2017)/\n
+{{<a href="zsd.html"><img src="projects/zsd/mscoco_unseen_examples.png" height="200" width="600"></a>}}
+#[zsd.html Project page]\n
+
+=== UMDFaces
+A large scale dataset for face recognition and verification. It includes over 360,000 annotated still images, 22,000 videos, and over 3.7 million annotated video frames.
+{{<a href="http://umdfaces.io/"><img src="projects/umdfaces/mosaic.png" height="240" width="600"></a>}}
+
+=== Comparison of Supervised and Unsupervised Neural Networks
+/Course Project for CMSC828L (Deep Learning), UMD College Park (August 2016-December 2016)/\n
+Compared the networks learnt using Generative Adversarial Networks \[1\] and compared against supervised networks 
+for classification. [Reports/CMSC828LDeepLearning.pdf \[report\]]
+
+=== Real-time (30 fps) Face Detection Using YOLO (You Only Look Once)
+Trained a real-time (30 fps) face detector using the You Only Look Once method \[2\] to find faces in about 15 
+million images.
+
+=== Detecting handles of kitchen appliances using Faster R-CNN
+/Course Project for CMSC828K (Preception for Robotics), UMD College Park (January 2016-April 2016)/\n
+Obtained annotations for data using Amazon Mechanical Turks and trained Faster R-CNN \[3\] models for detection of 
+handles of common kitchen appliances. 
+
+#=== Training baseline deep networks for simple problems (MNIST, CIFAR-10)
+#/Course Projects for ENEE633 (Statistical Pattern Classification) and ENEE731 (Image Understanding), UMD College 
+#Park/\n
+#Trained baseline deep models for MNIST digit classification and CIFAR-10 classification.
+
+=== Estimating Number of People in Images of Very High Density Crowds
+/Master's thesis, IIT Kanpur (May 2014-June 2015)/\n
+The task was to find the number of people in images of crowds taken at concerts, rallies, demonstrations, sports 
+events, religious processions and ceremonies, fairs, etc. Exploited multiple sources - head counts, Fourier 
+analysis, GLCM features, and interest point based counting. Used deformable part models (DPM) for detecting heads 
+and estimating their count and confidence. Implemented Fourier analysis based counting by finding local maxima in 
+reconstructed gradient images of crowds. Trained a support vector regression model on interest points (SIFT 
+features) to obtain an estimate of the count. Obtained the final count by fusing counts from different sources 
+using support vector regression. [https://arxiv.org/pdf/1507.08445v1.pdf Paper] based on the work. 
+
+#=== Femtocell Networks
+#/Term Paper for EE670 (Wireless Communications), IIT Kanpur (January 2014-April 2014)/\n
+#[Reports/EE670FemtocellNetworks.pdf \[paper\]]
+#
+#=== Robust Methods for Estimation problems
+#/Term Paper for EE602 (Statistical Signal Processing), IIT Kanpur (August 2013-November 2013)/\n
+##Presented estimation methods robust to assumptions on linearity and changes in distributions of noise and data. Expounded various robust estimators for single-channel data (M-estimator and Linear Regression Models) and multi-channel data (Minimum Volume Ellipsoid Estimator, Minimum Covariance Determinant Estimator and Sequential M-estimator).
+#[Reports/EE602RobustSignalProcessing.pdf \[paper\]]
+#
+#=== Real-time Continuous Speech Recognition System for English
+#/Course Project for EE627 (Speech Recognition), IIT Kanpur (August 2013-November 2013)/\n
+##Encoded the speech data using HTK and obtained Mel Frequency Cepstral Coefficients (MFCCs). 
+##Trained Hidden Markov Models and used them for recognizing unknown speech using Viterbi algorithm. 
+#[Reports/EE627SpeechRecognition.pdf \[report\]]
+#
+#=== Multiple Object Tracking Using Kalman Filter
+#/Course Project for EE698J (Kalman Filter and Applications), IIT Kanpur (August 2013-November 2013)/\n
+#Established the Kalman model with centroid and area of objects and used these to solve correspondence problem. 
+#Integrated initial covariance determination algorithm with the tracking process to obtain better results.
+#
+#=== Detection and Pose Estimation of Multiple texture-less 3-D Objects in Images and Videos
+#/Summer Internship at Czech Technical University, Prague (May 2013-July 2013)/\n
+#Detection and pose estimation of multiple texture-less 3-D objects in images and videos. Used a two stage 
+#edge-based procedure for the task: Hypothesis generation, and verification. Assigned entropies calculated using 
+#histograms of oriented gradients (HOG) as weights to pixels for training. The hypothesis was generated using the 
+#edge-based descriptor thus obtained and fast search by index tables. Employed improved oriented chamfer matching, 
+#improved by selecting discriminative edges, for verification. Achieved an improvement of 3-10% over existing state
+#of the art.
+#
+##=== Predicting Future Images
+##/Summer Internship at IIT Kanpur (May 2012-July 2012)/\n
+##\n
+##Modelled each pixel of an image as consisting of both spatial and temporal features. Used optical flow calculated using Horn-Schunk method to characterize the temporal aspects. Trained ANNs on flows and used them for generating future images by predicting position of each pixel. Compared the performance for several types and arrangements of neural networks: feedforward, convolution, RBFN, and feedback networks. Generated upto 10 future unseen frames of image sequences; up from 5 frames in previous works.
+#
+#=== Cricbot - Image Processing based Ball Collecting Robot
+#/Independent Project for Techfest 2012, IIT Bombay (December 2011-January 2012)/\n
+#Built a robot that identifies a ball using blob tracking algorithms, collects the ball from the ground and brings 
+#it to a pit at the corner of the field. Winner of the Cricbot event in Techfest 2012. 
+##Implemented algorithms for dynamic localization and motion of the robot in OpenCV. Used Atmel ATmega 16 as the 
+##micro-controller and L293 as the primary motor driver. 
+#
+#=== Autonomous Library Assistant
+#/Independent Project under Robotics Club, IIT Kanpur (May 2011-July 2011)/\n
+#Built an image processing robot that searches for a given book in a shelf using a camera mounted on it and brings 
+#it back to the user. #Used OpenCV to implement the blob tracking for identification of the book. Utilized the RS-232 protocol for UART communication between the robot and the computer. 
+
+#=== Hand-written Digit Recognition
+#/As part of CS365 (Artificial Intelligence), IIT Kanpur (January 2013-April 2013)/\n
+#\n
+#Developed and implemented a k-NN based classifier using MATLAB for classifying digits in MNIST digit dataset. Constructed 2-D isomap models using euclidean and tangential distances for the 784-D images in the dataset. Built and used deep learning networks for improving the accuracy of classification. [http://home.iitk.ac.in/~ankan/CS365/hw1/ \[results\]]
+
+
+#=== Face Recognition Using Support Vector Machines
+#/Course Project for EE698W (Convex Optimization), IIT Kanpur (January 2014-April 2014)/\n
+#\n
+#Exhibited the performances of one-vs-all and one-vs-one SVMs in a tree structure for the task at hand. Endeavoured to recognize partially occluded faces using Partial Support Vector Machine algorithm. Obtained very good recognition accuracies of over 80\% and even over 90\% for one dataset. [http://home.iitk.ac.in/~ankan/Reports/EE698WFaceRecognition.pdf \[report\]]
+
+
+#=== Design of Intelligent Control Systems
+#/Project for EE698B (Intelligent Control Systems), IIT Kanpur (August 2012-November 2012)/\n
+#\n
+#Designed multi-layered neural networks using back propagation algorithm - Radial Basis Function Networks (RBFN), Back Propagation Through Time (BPTT) and Real-Time Recurrent Learning (RTRL) and used these for system identification with emphasis on optimizing rate of convergence and achieved final RMS tracking errors of 0.001 and less. Also studied Indirect & Direct Adaptive Control using neural networks & fuzzy logic.
+
+#=== Fuzzy Identification of Systems and its Applications
+#/Course Project for EE658 (Fuzzy Logic, Systems and Applications), IIT Kanpur (August 2013-November 2013)/\n
+#\n
+#Explored a mathematical tool to build a fuzzy model of a system where fuzzy implications and reasoning are used. Illustrated the method of identification of a system using its input-output data by simulating the process. Incorporated the multidimensional fuzzy reasoning to reduce the number of implications. Demonstrated the fuzzy implication based on fuzzy partition of the input space.
+
+#=== Linear Coherent Decentralized Estimation
+#/Course Project for EE670 (Wireless Communications), IIT Kanpur (January 2014-April 2014)/\n
+#\n
+#Implemented the distributed estimation of signals in a resource constrained network with a fusion centre. Studied and analysed the optimal linear decentralized estimation when the multiple access channel (MAC) is coherent. Simulated and verified that under finite power budget, the MSE performance depends on the multiple access scheme.
+
+
+
+#=== Tracking the Angles of Arrival of Moving Targets
+#/Course Project for EE301 (Digital Signal Processing), IIT Kanpur (January 2013-April 2013)/\n
+#\n
+#Obtained the estimates of target angles by minimizing the norm of an error matrix function involving the covariance of the sensor outputs. Initiated the algorithm by implementing an eigenstructure-based technique called MUltiple SIgnal Classification (MUSIC). Illustrated the performance of the algorithm by simulating a test case. 
+#
+\n
+\n
+==== References
+\[1\] Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep 
+convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015). \n
+\[2\] Redmon, Joseph, Santosh Divvala, Ross Girshick, and Ali Farhadi. "You only look once: Unified, real-time 
+object detection." arXiv preprint arXiv:1506.02640 (2015). \n
+\[3\] Ren, Shaoqing, Kaiming He, Ross Girshick, and Jian Sun. "Faster R-CNN: Towards real-time object detection 
+with region proposal networks." In Advances in neural information processing systems, pp. 91-99. 2015. \n

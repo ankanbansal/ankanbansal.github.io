@@ -1,0 +1,66 @@
+# jemdoc: menu{MENU.txt}{courses.html}
+= Relevant Courses
+
+== University of Maryland, College Park
+- CMSC828I: Computer Vision
+- CMSC828L: Deep Learning
+- ENEE731: Image Understanding
+- ENNE633: Statistical Pattern Classification
+- CMSC828K: Perception for Robotics
+- ENEE621: Detection and Estimation Theory
+- ENEE620: Random Processes
+
+
+== Indian Institute of Technology, Kanpur
+- CS679: Machine Learning for Computer Vision\*
+- EE602: Statistical Signal Processing
+- EE698J: Kalman Filtering and Applications
+- EE698W: Convex Optimization
+- EE627: Speech Signal Processing
+- CS365: Artificial Intelligence Programming
+- MTH203: Ordinary and Partial Differential Equations
+- MTH101: Real Analysis and Multivariate Calculus
+- MTH102: Complex Analysis and Linear Algebra 
+
+
+#== Massively Open Online Courses
+#- [http://vision.stanford.edu/teaching/cs231n/ Convolutional Neural Networks for Visual Recognition]\*
+#- [https://www.coursera.org/course/artificialvision Discrete Inference and Learning in Artificial Vision]
+#- [https://www.coursera.org/course/compphoto Computational Photography]
+#- [https://www.coursera.org/course/images Image and Video Processing]
+#- [https://www.coursera.org/course/conrob Control of Mobile Robots]
+#- [https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx Automatic Navigation of Flying 
+#Robots] 
+#- [https://www.coursera.org/course/ml Machine Learning]
+#- [https://www.coursera.org/course/datasci Introduction to Data Science]
+#- [https://weka.waikato.ac.nz/dataminingwithweka/preview Data Mining with Weka]
+
+
+
+
+#== Computer Vision and Image Processing
+#
+#== Robotics and Control Systems
+#- EE698B: Intelligent Systems and Control
+#- EE658: Fuzzy Logic and Systems and Applications
+#- EE250: Control Systems Analysis
+#
+#
+#== Machine Learning and Data Mining
+#
+#
+#
+#== Signal Processing and Communications
+#
+#- EE670: Wireless Communications 
+#- EE301: Digital Signal Processing
+#- EE320: Principles of Communications
+#- EE321: Communication Systems
+#- EE200: Signals, Systems and Networks
+#
+#== Mathematics
+#- EE623: Detection and Estimation Theory
+#- ESO209: Probability and Statistics 
+
+\n
+/\* - Audited (January-April 2015)/ 

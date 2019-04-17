@@ -1,0 +1,51 @@
+# jemdoc: menu{MENU.txt}{publications.html}
+= List of Publications
+
+- *Ankan Bansal*, Sai Saketh Rambhatla, Abhinav Shrivastava, and Rama Chellappa.
+/"Detecting Human-Object Interactions via Functional Generalization."/ 
+[https://arxiv.org/pdf/1904.03181.pdf pre-print]
+
+- Rajeev Ranjan, *Ankan Bansal*, Jingxiao Zheng, Hongyu Xu, Joshua Gleason, Boyu Lu, Anirudh Nanduri, Jun-Cheng Chen, Carlos D Castillo, and Rama Chellappa. 
+/"A Fast and Accurate System for Face Detection, Identification, and Verification."/ (Submitted to T-BIOM)
+[https://arxiv.org/pdf/1809.07586.pdf pre-print]
+
+- *Ankan Bansal*, Karan Sikka, Gaurav Sharma, Rama Chellappa, and Ajay Divakaran. 
+/"Zero-Shot Object Detection."/  ECCV 2018.
+[http://openaccess.thecvf.com/content_ECCV_2018/papers/Ankan_Bansal_Zero-Shot_Object_Detection_ECCV_2018_paper.pdf paper]
+
+- Wei-An Lin, Jun-Cheng Chen, Rajeev Ranjan, *Ankan Bansal*, Swami Sankaranarayanan, Carlos D. Castillo, and Rama Chellappa. 
+/"Proximity-Aware Hierarchical Clustering of Unconstrained Faces."/ Image and Visual Computing 2018
+
+- Rajeev Ranjan, *Ankan Bansal*, Hongyu Xu, Swami Sankaranarayanan, Jun-Cheng Chen, Carlos D. Castillo, and Rama Chellappa. 
+/"Crystal Loss and Quality Pooling for Unconstrained Face Verification and Recognition."/
+[https://arxiv.org/pdf/1804.01159.pdf pre-print]
+
+- Suhas Lohit, *Ankan Bansal*, Nitesh Shroff, Jaishanker Pillai, Pavan Turaga, and Rama Chellappa. 
+/"Predicting Dynamical Evolution of Human  Activities  from a Single Image."/ CVPR-W 2018. 
+[http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w10/Lohit_Predicting_Dynamical_Evolution_CVPR_2018_paper.pdf paper]
+
+- *Ankan Bansal*, Rajeev Ranjan, Carlos D Castillo, and Rama Chellappa. 
+/"Deep Features for Recognizing Disguised Faces in the Wild."/ CVPR-W 2018. 
+[http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w1/Bansal_Deep_Features_for_CVPR_2018_paper.pdf paper]
+
+- Rajeev Ranjan, Swami Sankaranarayanan, *Ankan Bansal*, Navaneeth Bodla, Jun-Cheng Chen, Vishal M. Patel, Carlos D. Castillo, and Rama Chellappa. 
+/"Deep Learning for Understanding Faces."/ IEEE Signal Processing Magazine 2017
+
+- Sayantan Sarkar, *Ankan Bansal*, Upal Mahbub, and Rama Chellappa. 
+/"UPSET and ANGRI: Breaking High Performance  Image Classifiers."/ 
+[https://arxiv.org/pdf/1707.01159.pdf pre-print]
+
+- *Ankan Bansal*, Carlos D. Castillo, Rajeev Ranjan, and Rama Chellappa. 
+/"The Do's and Don'ts for CNN-based Face Verification."/ ICCV-W 2017. 
+[https://arxiv.org/pdf/1705.07426.pdf pre-print]
+
+- *Ankan Bansal*, Anirudh Nanduri, Carlos D. Castillo, Rajeev Ranjan, and Rama Chellappa. 
+/"UMDFaces: An Annotated  Face Dataset for Training Deep Networks."/ IJCB 2017. 
+[https://arxiv.org/pdf/1611.01484v1.pdf pre-print]
+
+- *Ankan Bansal*, and K. S. Venkatesh. 
+/"People Counting in High Density Crowds from Still Images."/ IJCEE 2015 Vol. 7(5). 
+[https://arxiv.org/pdf/1507.08445v1.pdf pre-print]
+
+- Nishchal K. Verma, *Ankan Bansal*, and Shikha Singh. 
+/"Generation of future image frames for an image sequence."/ Intelligent Interactive Technologies and Multimedia. Springer Berlin Heidelberg, 2013. 154-162.
