@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  27 NOV 2019 00:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  8 DEC 2019 02:18
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -353,33 +353,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--47
 {/scratch0/local/latex/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
 p}]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-28.
+43.
  (/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 228.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 243.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.321 \textbf{Programming Languages and Libraries}
-                                                  : Python, PyTorch, Tensorf...
-[2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 372.
-pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
-een already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.372 \end{document}
-                     [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 372.
+l.376 \end{document}
+                     [2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
  (./resume_AB_2page.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 372.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 372.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
 Package rerunfilecheck Info: File `resume_AB_2page.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 372.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
  ) 
 Here is how much of TeX's memory you used:
  5981 strings out of 492167
@@ -397,10 +390,10 @@ t/fonts/type1/public/amsfonts/cm/cmr10.pfb></scratch0/local/latex/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></scratch0/local/latex/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></scratch0/local
 /latex/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume_AB_2page.pdf (3 pages, 102239 bytes).
+Output written on resume_AB_2page.pdf (2 pages, 101163 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
