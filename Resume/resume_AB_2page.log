@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  8 DEC 2019 02:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  17 DEC 2019 05:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -359,20 +359,20 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 243.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 376.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.376 \end{document}
+l.383 \end{document}
                      [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 376.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
  (./resume_AB_2page.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 376.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 376.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
 Package rerunfilecheck Info: File `resume_AB_2page.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 376.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
  ) 
 Here is how much of TeX's memory you used:
  5981 strings out of 492167
@@ -390,7 +390,7 @@ t/fonts/type1/public/amsfonts/cm/cmr10.pfb></scratch0/local/latex/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></scratch0/local/latex/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></scratch0/local
 /latex/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume_AB_2page.pdf (2 pages, 101163 bytes).
+Output written on resume_AB_2page.pdf (2 pages, 101168 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
