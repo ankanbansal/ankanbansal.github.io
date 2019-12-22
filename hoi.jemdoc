@@ -61,11 +61,13 @@ If you found the paper useful, please consider citing our paper using the bibtex
 
 ~~~
 {}{}
-@misc{bansal2019detecting,
-    Author = {Bansal, Ankan and Rambhatla, Sai Saketh and Shrivastava, Abhinav and Chellappa, Rama},
-    Title = {Detecting Human-Object Interactions via Functional Generalization},
-    Year = {2019},
-    Eprint = {arXiv:1904.03181},
+@article{bansal2019detecting,
+    title={Detecting Human-Object Interactions via Functional Generalization},
+    author={Bansal, Ankan and Rambhatla, Sai Saketh and Shrivastava, Abhinav and Chellappa,
+        Rama},
+    journal={Thirty-Fourth AAAI Conference on Artificial Intelligence},
+    year={2020},
+    url={https://arxiv.org/pdf/1904.03181.pdf}
 }
 ~~~
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  18 DEC 2019 01:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  20 DEC 2019 04:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -226,23 +226,45 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip46
+)
+(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.de
+f
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (./resume_AB_2page.aux)
 \openout1 = `resume_AB_2page.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -279,35 +301,7 @@ LaTeX Font Info:    ... okay on input line 17.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box54
-(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 147.
-
-(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.de
-f
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
-
-(/scratch0/local/latex/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.m
-kii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count113
-\scratchdimen=\dimen125
-\scratchbox=\box55
-\nofMPsegments=\count114
-\nofMParguments=\count115
-\everyMPshowfont=\toks17
-\MPscratchCnt=\count116
-\MPscratchDim=\dimen126
-\MPnumerator=\count117
-\makeMPintoPDFobject=\count118
-\everyMPtoPDFconversion=\toks18
-)))
-Package hyperref Info: Link coloring ON on input line 17.
-
+Package hyperref Info: Link coloring ON on input line 19.
 (/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
@@ -315,36 +309,51 @@ Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 ing.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count119
+\c@section@level=\count113
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 19.
+LaTeX Info: Redefining \pageref on input line 19.
+LaTeX Info: Redefining \nameref on input line 19.
  (./resume_AB_2page.out) (./resume_AB_2page.out)
 \@outlinefile=\write3
 \openout3 = `resume_AB_2page.out'.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 21.
 
+(/scratch0/local/latex/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count114
+\scratchdimen=\dimen125
+\scratchbox=\box55
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen126
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks18
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 22.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 22.
+LaTeX Font Info:    Trying to load font information for U+mvs on input line 23.
 
-(/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/marvosym/umvs.fd)
-Overfull \hbox (17.0749pt too wide) in alignment at lines 20--24
+ (/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/marvosym/umvs.fd)
+Overfull \hbox (17.0749pt too wide) in alignment at lines 22--26
 [][][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 20--26
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--47
+Underfull \hbox (badness 10000) in paragraph at lines 45--49
 
  []
 
@@ -353,35 +362,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 43--47
 {/scratch0/local/latex/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.ma
 p}]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
-43.
+46.
  (/scratch0/local/latex/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 243.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 383.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 246.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 389.
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.383 \end{document}
+l.389 \end{document}
                      [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 383.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 389.
  (./resume_AB_2page.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 383.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 383.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 389.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 389.
 Package rerunfilecheck Info: File `resume_AB_2page.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 383.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 389.
  ) 
 Here is how much of TeX's memory you used:
- 5981 strings out of 492167
- 89120 string characters out of 6120159
- 192175 words of memory out of 5000000
- 10317 multiletter control sequences out of 15000+600000
+ 6371 strings out of 492167
+ 93376 string characters out of 6120159
+ 198898 words of memory out of 5000000
+ 10705 multiletter control sequences out of 15000+600000
  8427 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,9n,25p,215b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 31i,9n,37p,233b,308s stack positions out of 5000i,500n,10000p,200000b,80000s
 </scratch0/local/latex/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb></scratch0/local/latex/texlive/2019/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmbx12.pfb></scratch0/local/latex/texlive/2019/texmf-dist/fonts/type
@@ -390,7 +399,7 @@ t/fonts/type1/public/amsfonts/cm/cmr10.pfb></scratch0/local/latex/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></scratch0/local/latex/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></scratch0/local
 /latex/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume_AB_2page.pdf (2 pages, 101174 bytes).
+Output written on resume_AB_2page.pdf (2 pages, 101175 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
