@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  19 MAY 2020 18:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.29)  16 JUN 2020 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -248,8 +248,7 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-No file resume_AB_long.aux.
+) (./resume_AB_long.aux)
 \openout1 = `resume_AB_long.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
@@ -266,6 +265,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
 LaTeX Font Info:    ... okay on input line 19.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -314,6 +314,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 19.
 LaTeX Info: Redefining \pageref on input line 19.
 LaTeX Info: Redefining \nameref on input line 19.
+ (./resume_AB_long.out) (./resume_AB_long.out)
 \@outlinefile=\write3
 \openout3 = `resume_AB_long.out'.
 
@@ -379,21 +380,14 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 419.
  (./resume_AB_long.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 419.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 419.
-
-
-Package rerunfilecheck Warning: File `resume_AB_long.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume_AB_long.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `resume_AB_long.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 419.
  ) 
 Here is how much of TeX's memory you used:
- 6366 strings out of 492167
- 93256 string characters out of 6120159
- 198807 words of memory out of 5000000
+ 6372 strings out of 492167
+ 93370 string characters out of 6120159
+ 198896 words of memory out of 5000000
  10706 multiletter control sequences out of 15000+600000
  8427 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -406,7 +400,7 @@ t/fonts/type1/public/amsfonts/cm/cmr10.pfb></scratch0/local/latex/texlive/2019/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></scratch0/local/latex/tex
 live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></scratch0/local
 /latex/texlive/2019/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
-Output written on resume_AB_long.pdf (3 pages, 104210 bytes).
+Output written on resume_AB_long.pdf (3 pages, 104131 bytes).
 PDF statistics:
  65 PDF objects out of 1000 (max. 8388607)
  52 compressed objects within 1 object stream
