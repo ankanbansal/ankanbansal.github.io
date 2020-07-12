@@ -3,6 +3,9 @@
 
 {{<font size=2>(click on images to go to project pages)</font>}}
 
+=== Image-Set Visual Question Answering
+{{<a href="isvqa.html"><img src="projects/isvqa/more_examples.PNG" height="260" width="600"></a>}}
+
 === Human-Object Interaction Detection
 {{<a href="hoi.html"><img src="projects/hoi/non_hico_objects_small.png" height="260" width="600"></a>}}
 

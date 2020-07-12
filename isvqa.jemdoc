@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU.txt}{zsd.html}
+= Image-Set Visual Question Answering
+Ankan Bansal, Yuting Zhang, and Rama Chellappa\n
+
+~~~
+{}{img_left}{projects/isvqa/more_examples.PNG}{Examples}{900px}{200px}
+
+~~~
+    
+{{<font size=2><b>Fig. 1:</b> Some examples.</font>}}
+
+
+{{<font color=red size=+1.0><b>}}Coming soon{{</b></font>}}
