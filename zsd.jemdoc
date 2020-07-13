@@ -98,17 +98,18 @@ standardize the work done in this area.
 
 
 == Paper
-Our paper is available [https://arxiv.org/abs/1804.04340 here]. I also wrote a short [https://computervizion.blogspot.com/2018/04/zero-shot-object-detection.html blog post] about the paper.
+Our paper is available [https://openaccess.thecvf.com/content_ECCV_2018/papers/Ankan_Bansal_Zero-Shot_Object_Detection_ECCV_2018_paper.pdf here]. I also wrote a short [https://computervizion.blogspot.com/2018/04/zero-shot-object-detection.html blog post] about the paper.
 
 If you found the paper and data useful, please consider citing our paper using the bibtex:\n
 
 ~~~
 {}{}
-@misc{bansal2018zero,
-    Author = {Bansal, Ankan and Sikka, Karan and Sharma, Gaurav and Chellappa, Rama and Divakaran, Ajay},
-    Title = {Zero-Shot Object Detection},
-    Year = {2018},
-    Eprint = {arXiv:1804.04340},
+@inproceedings{bansal2018zero,
+  title={Zero-shot object detection},
+  author={Bansal, Ankan and Sikka, Karan and Sharma, Gaurav and Chellappa, Rama and Divakaran, Ajay},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  pages={384--400},
+  year={2018}
 }
 ~~~
 

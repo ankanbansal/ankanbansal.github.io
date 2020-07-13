@@ -11,3 +11,17 @@ Ankan Bansal, Yuting Zhang, and Rama Chellappa\n
 
 
 {{<font color=red size=+1.0><b>}}Coming soon{{</b></font>}}
+
+
+# If you found the paper and data useful, please consider citing our paper using the bibtex:\n
+
+~~~
+{}{}
+@inproceedings{bansal2018isvqa,
+    author = {Bansal, Ankan and Zhang, Yuting and Chellappa, Rama},
+    title = {Visual Question Answering on Image Sets},
+    booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+    year = {2020},
+}
+~~~
+
