@@ -62,12 +62,20 @@ If you found the paper useful, please consider citing our paper using the bibtex
 ~~~
 {}{}
 @article{bansal2019detecting,
-    title={Detecting Human-Object Interactions via Functional Generalization},
-    author={Bansal, Ankan and Rambhatla, Sai Saketh and Shrivastava, Abhinav and Chellappa,
+  title={Detecting Human-Object Interactions via Functional Generalization},
+  author={Bansal, Ankan and Rambhatla, Sai Saketh and Shrivastava, Abhinav and Chellappa,
         Rama},
-    journal={Thirty-Fourth AAAI Conference on Artificial Intelligence},
-    year={2020},
-    url={https://arxiv.org/pdf/1904.03181.pdf}
+  journal={Thirty-Fourth AAAI Conference on Artificial Intelligence},
+  year={2020},
+  url={https://arxiv.org/pdf/1904.03181.pdf}
+}
+
+@article{bansal2020spatial,
+  title={Spatial Priming for Detecting Human-Object Interactions},
+  author={Bansal, Ankan and Rambhatla, Sai Saketh and Shrivastava, Abhinav and Chellappa, Rama},
+  journal={arXiv preprint arXiv:2004.04851},
+  year={2020},
+  url={https://arxiv.org/pdf/2004.04851.pdf}
 }
 ~~~
 
