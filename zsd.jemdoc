@@ -105,7 +105,7 @@ If you found the paper and data useful, please consider citing our paper using t
 ~~~
 {}{}
 @inproceedings{bansal2018zero,
-  title={Zero-shot object detection},
+  title={Zero-Shot Object Detection},
   author={Bansal, Ankan and Sikka, Karan and Sharma, Gaurav and Chellappa, Rama and Divakaran, Ajay},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
   pages={384--400},
