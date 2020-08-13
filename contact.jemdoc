@@ -1,18 +1,18 @@
 # jemdoc: menu{MENU.txt}{contact.html}
 = Contact Information
 
-== Correspondence Address
-
-#Room 4444, A. V. Williams Building, \n
-Room 4116, Brendan Iribe Center for Computer Science and Engineering, \n
-University of Maryland,\n
-College Park, \n
-Maryland 20742, USA
+#== Correspondence Address
+#
+##Room 4444, A. V. Williams Building, \n
+#Room 4116, Brendan Iribe Center for Computer Science and Engineering, \n
+#University of Maryland,\n
+#College Park, \n
+#Maryland 20742, USA
 
 == Email
 
-[ankan@umd.edu] \n
-[ankanbansal@gmail.com]
+<first name>@amazon.com \n
+<first name><last name>@gmail.com
 
 == Social
 
