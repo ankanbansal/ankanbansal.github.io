@@ -9,11 +9,33 @@ Ankan Bansal, Yuting Zhang, and Rama Chellappa\n
     
 {{<font size=2><b>Fig. 1:</b> Some examples.</font>}}
 
+# {{<font color=red size=+1.0><b>}}Coming soon{{</b></font>}}
 
-{{<font color=red size=+1.0><b>}}Coming soon{{</b></font>}}
+\n
+*Abstract*: We introduce the task of Image-Set Visual Question Answering
+(ISVQA), which generalizes the commonly studied single-image VQA problem to
+multi-image settings. Taking a natural language question and a set of images as
+input, it aims to answer the question based on the contents of the images. The
+questions can be about objects and relationships in one or more images or about
+the entire scene depicted by the image set. To enable research on this new
+topic, we introduce two ISVQA datasets - indoor and outdoor scenes. They
+simulate the real-world scenarios of indoor image collections and multiple
+car-mounted cameras, respectively. The indoor-scene dataset contains 91,479
+human-annotated questions for 48,138 image sets, and the outdoor-scene dataset
+has 49,617 questions for 12,746 image sets. We analyze the properties of the two
+datasets, including question-and-answer distributions, types of questions,
+biases in the dataset, and question-image dependencies. We also build new
+baseline models to investigate new research challenges in ISVQA.
 
 
-# If you found the paper and data useful, please consider citing our paper using the bibtex:\n
+== Datasets
+Our datasets and more details can be found [https://github.com/ankanbansal/ISVQA-Dataset here].
+
+
+== Paper
+Our paper is available [https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660052.pdf here].
+
+If you use the datasets, please cite our paper using the bibtex:\n
 
 ~~~
 {}{}
@@ -24,4 +46,3 @@ Ankan Bansal, Yuting Zhang, and Rama Chellappa\n
     year = {2020},
 }
 ~~~
-
