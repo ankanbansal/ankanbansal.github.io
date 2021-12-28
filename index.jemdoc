@@ -9,14 +9,14 @@ Pasadena, CA\n
 ~~~
 
 \n
-~~~
-{}{raw}
-<font color='red'>August 2020</font>: Started working as an Applied Scientist at Amazon AWS AI.<br>
-<font color='red'>July 2020</font>: Finished my PhD at the University of Maryland, College Park. Read the
-<a href='Reports/AnkanBansal_dissertation.pdf'>dissertation</a> and see the <a href='Reports/AnkanBansal_defence.pdf'>defense presentation</a>.<br>
-<font color='red'>July 2020</font>: Recognized as one of the top reviewers at ECCV 2020.<br>
-<font color='red'>June 2020</font>: Our paper <a href='https://arxiv.org/abs/2008.11976'>Visual Question Answering on Image Sets</a> has been accepted at ECCV 2020.<br><br><br>
-~~~
+#~~~
+#{}{raw}
+#<font color='red'>August 2020</font>: Started working as an Applied Scientist at Amazon AWS AI.<br>
+#<font color='red'>July 2020</font>: Finished my PhD at the University of Maryland, College Park. Read the
+#<a href='Reports/AnkanBansal_dissertation.pdf'>dissertation</a> and see the <a href='Reports/AnkanBansal_defence.pdf'>defense presentation</a>.<br>
+#<font color='red'>July 2020</font>: Recognized as one of the top reviewers at ECCV 2020.<br>
+#<font color='red'>June 2020</font>: Our paper <a href='https://arxiv.org/abs/2008.11976'>Visual Question Answering on Image Sets</a> has been accepted at ECCV 2020.<br><br><br>
+#~~~
 
 
 My research interest lies in scene understanding problems in computer vision. During my PhD, I worked
