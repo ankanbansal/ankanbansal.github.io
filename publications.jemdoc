@@ -2,7 +2,8 @@
 = List of Publications
 
 #{{<iframe src="https://bibbase.org/show?bib=http%3A%2F%2Fankan.umiacs.io%2Fpublications.bib"></iframe> }}
-{{<script src="https://bibbase.org/show?bib=http%3A%2F%2Fankan.umiacs.io%2Fpublications.bib&css=http://ankan.umiacs.io/jemdoc.css&jsonp=1"></script> }} 
+#{{<script src="https://bibbase.org/show?bib=http%3A%2F%2Fankan.umiacs.io%2Fpublications.bib&css=http://ankan.umiacs.io/jemdoc.css&jsonp=1"></script> }} 
+{{<script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2Fankanbansal%2Fankanbansal.github.io%2Fmaster%2Fpublications.bib&css=https://raw.githubusercontent.com/ankanbansal/ankanbansal.github.io/master/jemdoc.css&jsonp=1"></script> }} 
 #
 #- *Ankan Bansal*, Sai Saketh Rambhatla, Abhinav Shrivastava, and Rama Chellappa.
 #/"Detecting Human-Object Interactions via Functional Generalization."/ 
