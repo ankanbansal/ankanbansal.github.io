@@ -4,4 +4,3 @@ Ankan Bansal
     Publications	[publications.html]
 	Resume	[A.Bansal_Resume.pdf]
     Contact	[contact.html]
-    Blog [https://computervizion.blogspot.com/]
